@@ -9,11 +9,12 @@ public class binaerBaum {
 
     public void main (String[] args) {
         System.out.print("lol");
-    }
         System.out.print("PETER LUSTIG :)")
 
+    }
+
     public binaerBaum () {
-        this.binaerBaum (5, "default");
+        this.binaerBaum(5, "default");
     }
 
     public binaerBaum (int zahl, String name) {
