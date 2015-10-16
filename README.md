@@ -5,5 +5,3 @@ JUST THE BEGINNING ..
 Hallo {}
 
 Peter 12
-
-NA GUT DU STROLCH 
